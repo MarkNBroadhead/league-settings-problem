@@ -134,6 +134,12 @@ lol-leagues:
         hasSeenFlexRestrictionModal: true
         last-split-start-modal: 12.100000
     schemaVersion: 1
+lol-notifications:
+    data:
+        blockNonFriendGameInvites: true
+        disableCollectionsNotifications: true
+        disableEsportsNotifications: true
+    schemaVersion: 1
 lol-npe-tutorial-path:
     data:
         hasSeenTutorialPath: false
